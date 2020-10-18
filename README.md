@@ -3,6 +3,7 @@
 
 <img src="https://github.com/ethomas22/Password-Generator/blob/main/Assets/password.png?raw=true" />
 <br>
+
 ## Description
 This project tested my skills in JavaScript. This was a very challenging assingment, but really pushed me to utilize google and do the research.  I will continue to proctice JavaScript so I can familiarize myself with everything it is capable of.
 
