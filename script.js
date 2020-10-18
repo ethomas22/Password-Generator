@@ -93,4 +93,5 @@ function generatePassword() {
   var specialArray = ["!", "#", "$", "%", "&", "*", "?", "@", "^", "(", ")"];
 
   return finalPassword;
+  
 }
