@@ -24,7 +24,7 @@ function generatePassword() {
   console.log(passwordLength);
   
     if ((passwordLength >= 8) && (passwordLength <= 128)) {
-      console.log("password is ok");
+      console.log("password is correct");
       break;
     } else {
       console.log("length is more than");
